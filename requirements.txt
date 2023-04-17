@@ -1,0 +1,12 @@
+pandas
+pyttsx3
+openai
+whisper-openai
+matplotlib
+ffmpeg-python
+PyAudio
+SpeechRecognition
+seaborn
+plotly
+BeautifulSoup4
+lxml
