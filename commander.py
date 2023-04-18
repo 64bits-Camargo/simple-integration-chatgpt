@@ -46,8 +46,6 @@ class Commander:
             mensagens.append({"role": "user", "content": str(output_text)})
             answer = generate_answer(mensagens)
             
-            print(answer[0])
-            
             deliver.output(
                 text=answer[0]
             )
